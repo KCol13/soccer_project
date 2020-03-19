@@ -47,8 +47,3 @@ This is a game designed for two players to play on the same keyboard/computer. P
 # Acknowledgments
 
 Enviro and much of the code and information used to make this game was provided by my professor Eric Klavins. The code used to style the ball was found at ```https://commons.wikimedia.org/wiki/File:Simple_Soccer_Ball.svg```
-
-
-```python
-
-```
